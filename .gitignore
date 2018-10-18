@@ -1,0 +1,11 @@
+node_modules
+dist
+release
+.vscode
+.DS_Store
+/config.codekit3
+stylesheets/.sass-cache
+/css/main.css
+config.codekit
+package-lock.json
+.fuse_hidden*

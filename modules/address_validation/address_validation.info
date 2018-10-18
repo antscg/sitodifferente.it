@@ -1,0 +1,4 @@
+name = Address Validation
+description = This module be address validation
+core = 7.x
+package = Custom modules
